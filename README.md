@@ -2,6 +2,7 @@
 Experience with Continuous Integration and Continuous Delivery (CI/CD)
 
 Building the Web Application
+
 Step 1: Setting Up the Infrastructure
 Navigate to the folder in which your files are using your preferred CLI (In my project I used the windows command prompt)
 In the folder ,I have the following files:
